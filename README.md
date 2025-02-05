@@ -1,6 +1,5 @@
 # README.md
 # masters-big-data-analytics
-## Vehicular Speed Clustering Using Otsu's Method
 
 ### Description
 This repository contains implementations of various big data analytics assignments. Every directory can be cloned and run locally and code is documented and easy to understand but a bit knowledge of the concepts is required.
