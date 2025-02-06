@@ -1,4 +1,3 @@
-# README.md
 # masters-big-data-analytics
 
 ### Description
