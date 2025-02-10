@@ -5,7 +5,7 @@ This repository contains implementations of various big data analytics assignmen
 
 ### Prerequisites
 Ensure that the following software and libraries are installed:
-- Python 3.7 or higher
+- Python 3.7 or higher.
 - Required libraries listed in `requirements.txt`.
 
 ### Setup and Installation
@@ -34,8 +34,11 @@ The scripts inside the folders perform the following tasks:
   - Histogram of people not trying to speed.
   - Histogram of aggressive drivers.
   - ROC curve for evaluating classification performance.
+ 
 ### Decision Trees
+
 ### Eigen Vectors
+
 ### Feature Selection
 
 
