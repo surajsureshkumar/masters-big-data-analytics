@@ -42,3 +42,4 @@ The scripts inside the folders perform the following tasks:
 ### Feature Selection
 
 
+**All contributions must be original work. Copying content or code from external sources without proper attribution or permission is strictly prohibited and may lead to plagiarism concerns.**
