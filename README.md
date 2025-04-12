@@ -36,6 +36,12 @@ The scripts inside the folders perform the following tasks:
   - ROC curve for evaluating classification performance.
  
 ### Decision Trees
+The scripts inside the folders perform the following tasks:
+- Computes statistical features (min, max, mean, std, median) from time-series data.
+- Selects the best feature and threshold using a one-rule classification method.
+- Minimizes misclassification errors across class labels (1, 2, 3).
+- Visualizes the selected feature using a histogram with threshold marking.
+- Outputs a simple if-else rule for classification based on the best feature.
 
 ### Eigen Vectors
 
