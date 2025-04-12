@@ -44,8 +44,20 @@ The scripts inside the folders perform the following tasks:
 - Outputs a simple if-else rule for classification based on the best feature.
 
 ### Eigen Vectors
+- The scripts inside the folders perform the following tasks:
+- Reads shopping cart data and performs PCA (Principal Component Analysis).
+- Computes covariance matrix, eigenvalues, and eigenvectors.
+- Normalizes eigenvalues and plots their cumulative sum to assess variance contribution.
+- Projects data onto top two principal components for visualization.
+- Applies KMeans clustering (5 clusters) on reduced data and outputs cluster centers.
+- Transforms cluster centers back into the original feature space.
 
 ### Feature Selection
-
+- The scripts inside the folders perform the following tasks:
+- Implements a manually written decision tree classifier.
+- Derives new features like Shagginess and ApeFactor from raw data.
+- Applies nested if-else logic to classify each instance.
+- Prints and stores the predicted class (1 or -1) for each data point.
+- Saves the final predictions to a CSV file for validation or evaluation.
 
 **All contributions must be original work. Copying content or code from external sources without proper attribution or permission is strictly prohibited and may lead to plagiarism concerns.**
