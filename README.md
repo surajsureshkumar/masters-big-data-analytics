@@ -60,4 +60,20 @@ The scripts inside the folders perform the following tasks:
 - Prints and stores the predicted class (1 or -1) for each data point.
 - Saves the final predictions to a CSV file for validation or evaluation.
 
+### OTSU Using Threads
+- OTSU_using_threads.py
+- Implements Otsu’s thresholding method to segment numerical data.
+- Reads CSV data and flattens it for processing.
+- Quantizes data with various bin sizes and selects the best using a cost function.
+- Performs Otsu’s method both sequentially and in parallel using threads.
+- Visualizes and saves mixed variance vs threshold plots for evaluation.
+
+### Gradient Descent
+- Demonstrates gradient descent to optimize classification between “Good” and “Bad” trips.
+- Projects data onto different angles and thresholds to minimize misclassifications.
+- Iteratively refines angle and threshold using decreasing step sizes.
+- Identifies the optimal decision boundary for binary classification.
+- Plots and saves a visualization of the best decision boundary.
+
+
 ***Please do not copy the code files for your assignment, rather run it locally and understand how it works. Copying content for your assignment or homework is strictly prohibited, as it may result in plagiarism.***
