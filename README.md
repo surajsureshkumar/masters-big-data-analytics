@@ -60,4 +60,4 @@ The scripts inside the folders perform the following tasks:
 - Prints and stores the predicted class (1 or -1) for each data point.
 - Saves the final predictions to a CSV file for validation or evaluation.
 
-**All contributions must be original work. Copying content or code from external sources without proper attribution or permission is strictly prohibited and may lead to plagiarism concerns.**
+**All contributions to this repository must be original and authored by you and contribution or modifications are welcomed. Copying content or code from external sources without appropriate attribution or permission is strictly prohibited, as it may result in plagiarism and violate the repository's guidelines**
